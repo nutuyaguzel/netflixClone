@@ -1,0 +1,14 @@
+import React from 'react'
+import { Link } from 'react-router-dom'
+
+const Header = () => {
+  return (
+    <div className='bg-dark'>
+       <Link to={"/"}>
+       <img style={{maxWidth:'100px'}} src='https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png'/>
+       </Link>
+    </div>
+  )
+}
+
+export default Header
