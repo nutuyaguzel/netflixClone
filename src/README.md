@@ -13,3 +13,5 @@
 .filmlerin kategori verisini çek stora aktar 
 .her bir kategori için ekrana filmleri listeleyecek bileşeni ba.''ListMovies.jsx''
 
+
+.filmlerden birine tıklanınca kullanıcıyı film detay sayfasına yönlendir 

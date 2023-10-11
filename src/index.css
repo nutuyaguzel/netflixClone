@@ -4,3 +4,27 @@
   padding: 0;
   box-sizing: border-box;
 }
+.film{
+  max-width: 300px;
+
+}
+body{
+  overflow-x: hidden;
+}
+.film:hover{
+  scale:1.03;
+  cursor:pointer;
+  transition: 0.3s;
+
+  
+}
+.movie-detail{
+  min-height: 93vh;
+ 
+
+
+
+}
+.movie-detail div img{
+  max-height: 400px;
+}
